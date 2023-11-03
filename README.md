@@ -50,38 +50,35 @@ Image - test1
 ![Cat](https://github.com/BTCinfluencer/CannabisAIHub/blob/main/CannabisAIHub-003.jpg)
 <img src="https://github.com/BTCinfluencer/CannabisAIHub/blob/main/CannabisAIHub-002.jpg" width="300">
 
-# This is how you create code examples:
+## This is how you create code examples:
 
 1 Example of product recommendation using collaborative filtering:
 
      import numpy as np
-# Sample user preferences and product data
-user_preferences = np.array([4.0, 3.5, 0.0, 4.5, 0.0])  # User's ratings for different product features
+   *Sample user preferences and product data
+user_preferences = np.array([4.0, 3.5, 0.0, 4.5, 0.0])  * User's ratings for different product features
 product_data = np.array([
     [4.5, 4.0, 4.2, 0.0, 4.0],  # Product 1 feature ratings
     [3.8, 4.2, 3.5, 4.0, 0.0],  # Product 2 feature ratings
     [0.0, 4.4, 4.0, 0.0, 4.3],  # Product 3 feature ratings
     [4.0, 0.0, 3.8, 4.5, 3.9],  # Product 4 feature ratings
 ])
-
-# Calculate recommendations using collaborative filtering
+    * Calculate recommendations using collaborative filtering
 def recommend_product(user_preferences, product_data):
     scores = np.dot(user_preferences, product_data.T)
     recommended_product = np.argmax(scores)
     return recommended_product
-
 recommended_product = recommend_product(user_preferences, product_data)
 print(f"Recommended product: Product {recommended_product + 1}")
 
     
 2. Example of simulating cannabis effects:
-# Create a function to simulate cannabis effects based on dose and strain
+    *Create a function to simulate cannabis effects based on dose and strain
 def simulate_effects(dose, strain):
-    # Add your code for simulating effects here
+    *Add your code for simulating effects here
     simulated_effects = f"Simulated effects for {dose}g of {strain} strain."
     return simulated_effects
-
-# Example usage
+    *Example usage
 simulated_effects = simulate_effects(3, "Indica")
 print(simulated_effects)
 
@@ -89,17 +86,14 @@ print(simulated_effects)
     
 3. Example of data retrieval using Requests:
 import requests
-
-# Define the URL of the data source
+   *Define the URL of the data source
 url = "URL_of_data_source"
-
-# Send a GET request to retrieve data
+   *Send a GET request to retrieve data
 response = requests.get(url)
-
-# Check if the request was successful
+   *Check if the request was successful
 if response.status_code == 200:
     data = response.text
-    # Analyze the retrieved data here
+   *Analyze the retrieved data here
     print(data)
 else:
     print(f"Failed to retrieve data. Status code: {response.status_code}")
