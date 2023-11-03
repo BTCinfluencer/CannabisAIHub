@@ -25,12 +25,28 @@ Accès aux données: L'industrie du cannabis est en constante évolution, mais i
 Conformité aux réglementations: Les lois et réglementations qui entourent le cannabis varient d'une région ou d'un pays à l'autre. L'IA peut aider à informer les utilisateurs sur la légalité de leur situation géographique.
 
 La motivation personnelle derrière ce projet pourrait découler d'un intérêt pour l'éducation, la technologie et l'amélioration de la sécurité et de la responsabilité dans l'utilisation du cannabis.
-Ce sujet est important et intéressant car il touche à la fois à des questions de santé publique, à la légalisation du cannabis et à la technologie. Il offre l'opportunité d'aider les individus à prendre des décisions plus éclairées en matière de cannabis, d'encourager la responsabilité et la sécurité, et de contribuer à l'évolution de l'industrie du cannabis vers des normes plus élevées en matière d'information et de transparence.
+Ce sujet est très important car il touche à la fois à des questions de santé publique, à la légalisation du cannabis et à la technologie. Il offre l'opportunité d'aider les individus à prendre des décisions plus éclairées en matière de cannabis, d'encourager la responsabilité et la sécurité, et de contribuer à l'évolution de l'industrie du cannabis vers des normes plus élevées en matière d'information et de transparence.
 
 
 ## How is it used?
 
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+Le projet "Cannabis AI Hub" a pour objectif de fournir des informations, des recommandations et des outils pour aider les utilisateurs à prendre des décisions éclairées concernant le cannabis
+Processus d'utilisation :
+Accès à la plateforme : Les utilisateurs accèdent à la plateforme "Cannabis AI Hub" en visitant le site Web.
+Identification des besoins : Les utilisateurs sont invités à définir leurs besoins et préférences, que ce soit pour un usage récréatif ou médical, pour la gestion de la douleur, l'insomnie, l'anxiété, etc.
+Recommandations personnalisées : L'IA analyse les données des utilisateurs et propose des recommandations de produits à base de cannabis, que ce soit des variétés de cannabis, des huiles, des produits comestibles, ou d'autres formes de consommation.
+Éducation et information : Les utilisateurs peuvent accéder à des ressources éducatives sur le cannabis, y compris des guides, des articles et des informations sur la législation en vigueur dans leur région.
+Simulations : Si un utilisateur souhaite comprendre les effets potentiels de différentes doses de cannabis, il peut utiliser des outils d'IA pour simuler ces effets.
+Forum communautaire : Les utilisateurs peuvent participer à des discussions sur le cannabis, partager leurs expériences et poser des questions.
+
+Types de situations et utilisateurs :
+Personnes novices en matière de cannabis : Les novices qui cherchent à en savoir plus sur le cannabis et à prendre des décisions éclairées sur son utilisation.
+Patients médicaux : Les patients cherchant à utiliser le cannabis à des fins médicales, par exemple, pour soulager la douleur chronique, l'anxiété, ou d'autres affections.
+Utilisateurs récréatifs : Les consommateurs récréatifs souhaitant découvrir de nouvelles variétés de cannabis ou comprendre les doses appropriées pour éviter les effets indésirables.
+Professionnels de la santé : Les médecins et les professionnels de la santé qui ont besoin d'informations actualisées sur le cannabis à des fins médicales.
+Consommateurs expérimentés : Les consommateurs chevronnés qui souhaitent accéder à des informations avancées sur les variétés de cannabis et des ressources communautaires.
+
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
