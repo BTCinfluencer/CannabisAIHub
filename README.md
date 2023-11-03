@@ -47,10 +47,10 @@ Experienced Consumers: Seasoned consumers wanting access to advanced information
 
 Image - test1
 
-![Cat](https://github.com/BTCinfluencer/CannabisAIHub/blob/main/CannabisAIHub-002.jpg)
+![Cat](https://github.com/BTCinfluencer/CannabisAIHub/blob/main/CannabisAIHub-003.jpg)
 
 If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://github.com/BTCinfluencer/CannabisAIHub/blob/main/CannabisAIHub-001.jpg" width="300">
+<img src="https://github.com/BTCinfluencer/CannabisAIHub/blob/main/CannabisAIHub-002.jpg" width="300">
 
 # This is how you create code examples:
 
