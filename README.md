@@ -60,24 +60,24 @@ If you need to resize images, you have to use an HTML tag, like this:
 # This is how you create code examples:
 
 1. Exemple de recommandation de produit :
-# Supposons que vous ayez des données de produits et des préférences utilisateur
-# Utilisez un algorithme de recommandation, tel que des filtres collaboratifs, pour recommander des produits en fonction des préférences de l'utilisateur
+     # Supposons que vous ayez des données de produits et des préférences utilisateur
+     # Utilisez un algorithme de recommandation, tel que des filtres collaboratifs, pour recommander des produits en fonction des préférences de l'utilisateur
 def recommander_produit(utilisateur, produits):
     # Code de recommandation ici
     return produits_recommandes
     
 2. Exemple de simulation d'effets du cannabis :
-# Créez une fonction pour simuler les effets du cannabis en fonction de la dose et de la variété
+    # Créez une fonction pour simuler les effets du cannabis en fonction de la dose et de la variété
 def simuler_effets(dose, variete):
     # Code de simulation ici
     return effets_simules
     
 3. Exemple de récupération de données :
-# Utilisez des bibliothèques telles que Requests ou Beautiful Soup pour récupérer des données sur les variétés de cannabis à partir de sources en ligne
-import requests
+    # Utilisez des bibliothèques telles que Requests ou Beautiful Soup pour récupérer des données sur les variétés de cannabis à partir de sources en ligne
+      import requests
 url = "URL_de_la_source_de_données"
 response = requests.get(url)
-# Analysez les données récupérées ici
+    # Analysez les données récupérées ici
 
 ```
 
