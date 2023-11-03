@@ -151,6 +151,22 @@ Accès équitable : Le projet doit être accessible à tous, en évitant la disc
 
 How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
 
+Le projet "Cannabis AI Hub" a le potentiel de croître et de devenir une ressource encore plus précieuse à l'avenir. Voici quelques façons dont il pourrait évoluer et se développer :
+Expansion des fonctionnalités : Vous pourriez élargir les fonctionnalités de la plateforme en ajoutant de nouveaux outils d'IA, tels que des simulateurs plus avancés, des outils de dosage en temps réel, ou des chatbots pour des réponses instantanées.
+Internationalisation : Vous pourriez étendre le projet pour prendre en charge différentes langues et régions, en fournissant des informations spécifiques à chaque localisation.
+Partenariats : Collaborer avec des laboratoires de test de cannabis, des entreprises de l'industrie, des experts en santé et des organismes gouvernementaux pour accéder à des données de haute qualité et à des ressources.
+Applications mobiles : Développer des applications mobiles pour rendre le projet plus accessible aux utilisateurs sur leurs smartphones et tablettes.
+Formation et sensibilisation : Organiser des ateliers, des webinaires et des programmes de formation pour éduquer le public, les professionnels de la santé et les dispensaires de cannabis sur les meilleures pratiques.
+Intelligence artificielle avancée : Explorer des domaines avancés de l'IA, tels que l'apprentissage en profondeur, pour améliorer la précision des recommandations et des simulations.
+
+Pour faire évoluer ce projet, vous aurez besoin de diverses compétences, notamment :
+
+Développement d'applications web et mobiles : Pour étendre les fonctionnalités et offrir une expérience utilisateur de haute qualité.
+Expérience en intelligence artificielle : Pour améliorer les modèles d'IA, développer de nouveaux outils et garantir des recommandations précises.
+Connaissance du domaine : Une compréhension approfondie des aspects médicaux, légaux et culturels du cannabis est essentielle.
+Protection de la vie privée et sécurité des données : Pour garantir la confidentialité et la sécurité des données des utilisateurs.
+Éducation et sensibilisation : Pour informer le public et les professionnels de la santé sur les avantages et les risques du cannabis.
+
 
 ## Acknowledgments
 
