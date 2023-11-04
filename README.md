@@ -185,7 +185,7 @@ Education and Awareness: To inform the public and healthcare professionals about
 
 [https://www.cannabisaihub.com](https://www.cannabisaihub.com)
 
-[Visitez notre site Web](https://www.canabisaihub.com) pour en savoir plus sur notre projet.
+[Visitez notre site Web]([http://www.canabisaihub.com]) pour en savoir plus sur notre projet.
 
 
 SiteWeb: CannabisAIHub.com
