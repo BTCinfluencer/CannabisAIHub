@@ -1,4 +1,3 @@
-<img src="https://github.com/BTCinfluencer/CannabisAIHub/blob/main/CannabisAIHub-logo.png" width="300">
 # CannabisAIHub
 Building AI course project "Cannabis AI Hub"
 <!-- This is the markdown template for the final project of the Building AI course, 
@@ -8,6 +7,7 @@ Copy the template, paste it to your GitHub README and edit! -->
 Cannabis AI Hub
 
 Final project for the Building AI course
+<img src="https://github.com/BTCinfluencer/CannabisAIHub/blob/main/CannabisAIHub-logo.png" width="250">
 
 ## Summary
 
