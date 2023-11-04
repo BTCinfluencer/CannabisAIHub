@@ -178,6 +178,8 @@ Education and Awareness: To inform the public and healthcare professionals about
 
 
 ## Acknowledgments
+https://github.com/BTCinfluencer/CannabisAIHub/blob/main/CannabisAIHub-logo.png
+<img src="https://github.com/BTCinfluencer/CannabisAIHub/blob/main/CannabisAIHub-logo.png" width="300">
 
 * list here the sources of inspiration 
 * do not use code, images, data etc. from others without permission
