@@ -8,7 +8,7 @@ Cannabis AI Hub
 
 Final project for the Building AI course
 <img src="https://github.com/BTCinfluencer/CannabisAIHub/blob/main/CannabisAIHub-logo.png" width="250">
-![CannabisAIHub](https://www.cannabisaihub.com/github.com/BTCinfluencer/CannabisAIHub/blob/main/CannabisAIHub-logo.png)
+
 
 ## Summary
 
@@ -182,6 +182,8 @@ Education and Awareness: To inform the public and healthcare professionals about
 ## Acknowledgments
 
 <img src="https://github.com/BTCinfluencer/CannabisAIHub/blob/main/CannabisAIHub-logo.png" width="300">
+[https://www.CannabisAIHub.com](https://www.cannabisaihub.com)
+
 SiteWeb: CannabisAIHub.com
 
 * list here the sources of inspiration 
