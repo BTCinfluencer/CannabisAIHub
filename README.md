@@ -8,6 +8,7 @@ Cannabis AI Hub
 
 Final project for the Building AI course
 <img src="https://github.com/BTCinfluencer/CannabisAIHub/blob/main/CannabisAIHub-logo.png" width="250">
+![Texte alternatif](https://www.cannabisaihub.com/CannabisAIHub-logo.png)
 
 ## Summary
 
