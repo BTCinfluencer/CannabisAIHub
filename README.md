@@ -1,3 +1,4 @@
+<img src="https://github.com/BTCinfluencer/CannabisAIHub/blob/main/CannabisAIHub-logo.png" width="300">
 # CannabisAIHub
 Building AI course project "Cannabis AI Hub"
 <!-- This is the markdown template for the final project of the Building AI course, 
@@ -178,7 +179,6 @@ Education and Awareness: To inform the public and healthcare professionals about
 
 
 ## Acknowledgments
-https://github.com/BTCinfluencer/CannabisAIHub/blob/main/CannabisAIHub-logo.png
 <img src="https://github.com/BTCinfluencer/CannabisAIHub/blob/main/CannabisAIHub-logo.png" width="300">
 
 * list here the sources of inspiration 
