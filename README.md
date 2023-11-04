@@ -182,7 +182,7 @@ Education and Awareness: To inform the public and healthcare professionals about
 ## Acknowledgments
 
 <img src="https://github.com/BTCinfluencer/CannabisAIHub/blob/main/CannabisAIHub-logo.png" width="300">
-[https://www.CannabisAIHub.com](https://www.cannabisaihub.com)
+[https://www.cannabisaihub.com](https://www.cannabisaihub.com)
 
 SiteWeb: CannabisAIHub.com
 
