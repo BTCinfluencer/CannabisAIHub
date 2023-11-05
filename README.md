@@ -49,8 +49,8 @@ Experienced Consumers: Seasoned consumers wanting access to advanced information
 
 Image - test1
 
-![Cat](https://github.com/BTCinfluencer/CannabisAIHub/blob/main/CannabisAIHub-003.jpg)
-<img src="https://github.com/BTCinfluencer/CannabisAIHub/blob/main/CannabisAIHub-002.jpg" width="300">
+
+<img src="https://github.com/BTCinfluencer/CannabisAIHub/blob/main/Cannabis%20AI%20Hub-ban-0101.jpg" width="300">
 
 ## This is how you create code examples:
 
