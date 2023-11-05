@@ -184,7 +184,7 @@ Education and Awareness: To inform the public and healthcare professionals about
 
 <img src="https://github.com/BTCinfluencer/CannabisAIHub/blob/main/CannabisAIHub-logo.png" width="300">
 
-[Notre site Web](https://www.cannabisaihub.com) pour en savoir plus sur notre projet.
+[CannabisAIHub.com](https://www.cannabisaihub.com) pour en savoir plus sur notre projet.
 
 
 
