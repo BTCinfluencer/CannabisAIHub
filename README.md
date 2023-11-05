@@ -51,7 +51,7 @@ Image - test1
 
 
 <img src="https://github.com/BTCinfluencer/CannabisAIHub/blob/main/Cannabis%20AI%20Hub-ban-0101.jpg" width="300">
-![Cat](https://github.com/BTCinfluencer/CannabisAIHub/blob/main/CannabisAIHub-003.jpg)
+(https://github.com/BTCinfluencer/CannabisAIHub/blob/main/CannabisAIHub-003.jpg)
 
 ## This is how you create code examples:
 
