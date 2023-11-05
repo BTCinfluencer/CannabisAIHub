@@ -186,9 +186,7 @@ Education and Awareness: To inform the public and healthcare professionals about
 
 [CannabisAIHub.com](https://www.cannabisaihub.com) pour en savoir plus sur notre projet.
 
-
-
-SiteWeb: CannabisAIHub.com
+SiteWeb: CannabisAIHub.com  (website under construction) 
 
 * list here the sources of inspiration 
 * do not use code, images, data etc. from others without permission
