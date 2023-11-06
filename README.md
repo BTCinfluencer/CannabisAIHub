@@ -14,6 +14,7 @@ Final project for the Building AI course
 
 "Cannabis AI Hub" would be suitable for a project that gathers information, resources, and artificial intelligence applications related to cannabis 
 "Cannabis AI Hub" will feature a cannabis product recommendation platform, an information center, educational and dosing tools, cannabis strain data analysis, and a community forum.
+“Cannabis AI Hub” will build a fun and responsible Android game for education and information on cannabis and others are essential, especially for young people.
 
 
 
