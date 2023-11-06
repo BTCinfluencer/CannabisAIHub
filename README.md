@@ -59,13 +59,13 @@ Image - test1
 1 Example of product recommendation using collaborative filtering:
 
      import numpy as np
-   *Sample user preferences and product data
-user_preferences = np.array([4.0, 3.5, 0.0, 4.5, 0.0])  * User's ratings for different product features
-product_data = np.array([
-    [4.5, 4.0, 4.2, 0.0, 4.0],  # Product 1 feature ratings
-    [3.8, 4.2, 3.5, 4.0, 0.0],  # Product 2 feature ratings
-    [0.0, 4.4, 4.0, 0.0, 4.3],  # Product 3 feature ratings
-    [4.0, 0.0, 3.8, 4.5, 3.9],  # Product 4 feature ratings
+       *Sample user preferences and product data
+     user_preferences = np.array([4.0, 3.5, 0.0, 4.5, 0.0])  * User's ratings for different product features
+     product_data = np.array([
+     [4.5, 4.0, 4.2, 0.0, 4.0],  # Product 1 feature ratings
+     [3.8, 4.2, 3.5, 4.0, 0.0],  # Product 2 feature ratings
+     [0.0, 4.4, 4.0, 0.0, 4.3],  # Product 3 feature ratings
+     [4.0, 0.0, 3.8, 4.5, 3.9],  # Product 4 feature ratings
 ])
     * Calculate recommendations using collaborative filtering
 def recommend_product(user_preferences, product_data):
