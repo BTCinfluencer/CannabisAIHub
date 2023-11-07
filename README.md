@@ -66,41 +66,41 @@ Image - test1
      [3.8, 4.2, 3.5, 4.0, 0.0],  # Product 2 feature ratings
      [0.0, 4.4, 4.0, 0.0, 4.3],  # Product 3 feature ratings
      [4.0, 0.0, 3.8, 4.5, 3.9],  # Product 4 feature ratings
-])
-    * Calculate recommendations using collaborative filtering
-def recommend_product(user_preferences, product_data):
-    scores = np.dot(user_preferences, product_data.T)
-    recommended_product = np.argmax(scores)
-    return recommended_product
-recommended_product = recommend_product(user_preferences, product_data)
-print(f"Recommended product: Product {recommended_product + 1}")
+     ])
+       *Calculate recommendations using collaborative filtering
+     def recommend_product(user_preferences, product_data):
+     scores = np.dot(user_preferences, product_data.T)
+     recommended_product = np.argmax(scores)
+     return recommended_product
+     recommended_product = recommend_product(user_preferences, product_data)
+     print(f"Recommended product: Product {recommended_product + 1}")
 
     
 2. Example of simulating cannabis effects:
-    *Create a function to simulate cannabis effects based on dose and strain
-def simulate_effects(dose, strain):
+      *Create a function to simulate cannabis effects based on dose and strain
+    def simulate_effects(dose, strain):
     *Add your code for simulating effects here
     simulated_effects = f"Simulated effects for {dose}g of {strain} strain."
     return simulated_effects
-    *Example usage
-simulated_effects = simulate_effects(3, "Indica")
-print(simulated_effects)
+      *Example usage
+    simulated_effects = simulate_effects(3, "Indica")
+    print(simulated_effects)
 
 
     
 3. Example of data retrieval using Requests:
-import requests
-   *Define the URL of the data source
-url = "URL_of_data_source"
+   import requests
+     *Define the URL of the data source
+   url = "URL_of_data_source"
    *Send a GET request to retrieve data
-response = requests.get(url)
+   response = requests.get(url)
    *Check if the request was successful
-if response.status_code == 200:
+   if response.status_code == 200:
     data = response.text
    *Analyze the retrieved data here
-    print(data)
-else:
-    print(f"Failed to retrieve data. Status code: {response.status_code}")
+   print(data)
+   else:
+      print(f"Failed to retrieve data. Status code: {response.status_code}")
 
 
 
