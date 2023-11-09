@@ -79,30 +79,31 @@ Image - test1
 2. Example of simulating cannabis effects:
 
        *Create a function to simulate cannabis effects based on dose and strain
-    def simulate_effects(dose, strain):
+     def simulate_effects(dose, strain):
        *Add your code for simulating effects here
        simulated_effects = f"Simulated effects for {dose}g of {strain} strain."
        return simulated_effects
+   
        *Example usage
-    simulated_effects = simulate_effects(3, "Indica")
-    print(simulated_effects)
+     simulated_effects = simulate_effects(3, "Indica")
+     print(simulated_effects)
 
 
     
-3. Example of data retrieval using Requests:
+4. Example of data retrieval using Requests:
 
-    import requests
+     import requests
    
-     *Define the URL of the data source
-    url = "URL_of_data_source"
+       *Define the URL of the data source
+     url = "URL_of_data_source"
    
-     *Send a GET request to retrieve data
+       *Send a GET request to retrieve data
      response = requests.get(url)
    
-     *Check if the request was successful
+      *Check if the request was successful
     if response.status_code == 200:
       data = response.text
-     *Analyze the retrieved data here
+      *Analyze the retrieved data here
       print(data)
     else:
       print(f"Failed to retrieve data. Status code: {response.status_code}")
