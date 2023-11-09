@@ -90,16 +90,13 @@ Image - test1
 
 
     
-4. Example of data retrieval using Requests:
+3. Example of data retrieval using Requests:
 
-     import requests
-   
+    import requests  
        *Define the URL of the data source
-     url = "URL_of_data_source"
-   
+    url = "URL_of_data_source"
        *Send a GET request to retrieve data
-     response = requests.get(url)
-   
+    response = requests.get(url) 
       *Check if the request was successful
     if response.status_code == 200:
       data = response.text
